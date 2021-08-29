@@ -1,7 +1,7 @@
 # 搜索引擎指南
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/aeilot/HowToUseSearchEngines/pulls)
 
-这份教程由初中生 [@aeilot](https://aeilot.top) 为同龄人而写，语言简洁，专门解决青少年不熟悉搜索引擎而去问别人的情况。当然作者也有时会出现一些错误，欢迎提交 PR 来纠正，也欢迎大家把这份教程翻译到其他语言！👏
+这份教程由初中生 [@aeilot](https://aeilot.top) 为同龄人而写，语言简洁，专门解决青少年不熟悉搜索引擎而去问别人的情况。当然作者也有时会出现一些错误，欢迎提交 PR 来纠正，也欢迎大家把这份教程翻译到其他语言！👏 [Gitee 镜像](https://gitee.com/louis-code/HowToUseSearchEngines)
 
 ## 目录
   * [简介](#简介)
