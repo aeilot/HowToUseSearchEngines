@@ -19,7 +19,7 @@ This tutoiral was written by [@aeilot](https://aeilot.top) who's a junior high s
     * [Specify the title](#Specify-the-title)
     * [Tell the Search Engine what you're making a search for is a work](#Tell-the-Search-Engine-what-you're-making-a-search-for-is-a-work)
     * [Tell the Search Engine not to separate the keywords](#Tell-the-Search-Engine-not-to-separate-the-keywords)
-  * [Relevant Articles](#Relevant Articles)
+  * [Relevant Articles](#Relevant-Articles)
   * [Thanks](#Thanks)
   * [Reference](#Reference)
 
